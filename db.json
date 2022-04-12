@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "text": "Learn React",
+      "circle": "red",
+      "id": 1
+    },
+    {
+      "text": "Learn HTML",
+      "circle": "red",
+      "id": 2
+    }
+  ]
+}
